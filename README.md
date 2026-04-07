@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Full Stack AI Engineer and AI Builder based in London, with 17 years of experience across EdTech, FinTech, UK Regulatory, AI Governance, and Healthcare Quality domains. I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education. My background spans enterprise QA, national-scale examinations management, and early-stage AI product development, which means I bridge the gap between rigorous engineering practice and modern AI system design. Since 2024, I have shipped eight products across five domains, two of which are live and in active use.
+I am a Full Stack AI Engineer and AI Builder based, with 17 years of experience across EdTech, FinTech, UK Regulatory, AI Governance, and Healthcare Quality domains. I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education. My background spans enterprise QA, national-scale examinations management, and early-stage AI product development, which means I bridge the gap between rigorous engineering practice and modern AI system design. Since 2024, I have shipped eight products across five domains, two of which are live and in active use.
 
 ---
 
