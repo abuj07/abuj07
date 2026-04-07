@@ -83,7 +83,7 @@ I am a Full Stack AI Engineer and AI Builder based in London, with 17 years of e
 
 **FinTech and Capital Markets**
 
-My work in FinTech spans financial intelligence tooling and market analysis infrastructure. Wingman delivers multi-timeframe market scanning across 54 instruments using the Claude API, whilst Aperintel's financial systems arm addresses the structural gap between fragmented financial data and decision-ready intelligence.
+My expertise in FinTech spans financial intelligence tooling and market analysis infrastructure. Wingman delivers multi-timeframe market scanning across 54 instruments using the Claude API, whilst Aperintel's financial systems arm addresses the structural gap between fragmented financial data and decision-ready intelligence.
 
 **UK Regulatory and Pensions**
 
@@ -91,7 +91,7 @@ I work as a Senior Test Analyst at The Pensions Regulator, where I apply QA rigo
 
 **EdTech and Computer Based Testing**
 
-I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and taught computing in Nigeria in 2009. TekkieStack applies this lived experience to structured, accessible coding education for school-age learners from Year 3 upwards.
+I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and taught college computing from 2009 to 2016. TekkieStack applies this lived experience to structured, accessible coding education for school-age learners from Year 3 upwards.
 
 **Healthcare Quality and CQC**
 
