@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Osi Abu
@@ -124,3 +125,21 @@ PaulaQI and Aces are the two most active projects at present, both in active dev
 ## Get in Touch
 
 I am open to collaborations on AI product development, QA engineering, and domain-specific intelligence systems. You can find me at [osiabu.dev](https://www.osiabu.dev) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
+=======
+## Hi there 👋
+
+<!--
+**abuj07/abuj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 4c9037661519d7a4bc1e8730b1f757bc71259ee3
