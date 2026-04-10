@@ -4,7 +4,7 @@
 
 **Full Stack AI Engineer and AI Builder, London**
 
-[Website](https://www.osiabu.dev) · [LinkedIn](https://www.linkedin.com/in/osiabu) · [GitHub](https://www.github.com/abuj07)
+[Website](https://www.osiabu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/osiabu) · [GitHub](https://www.github.com/osiabu)
 
 </div>
 
@@ -123,7 +123,7 @@ PaulaQI and Aces are the two most active projects at present, both in active dev
 
 ## Get in Touch
 
-I am open to collaborations on AI product development, QA engineering, and domain-specific intelligence systems. You can find me at [osiabu.dev](https://www.osiabu.dev) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
+I am open to collaborations on AI product development, QA engineering, and domain-specific intelligence systems. You can find me at [osiabu.dev](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
 =======
 ## Hi there 👋
 
