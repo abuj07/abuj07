@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Full Stack AI Engineer and Senior Test Analyst, with 17 years of experience across EdTech, FinTech, HealthTech, Regulatory and AI Governance domains. I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education. My background spans enterprise QA, national-scale examinations management, and early-stage AI product development, which means I bridge the gap between rigorous engineering practice and modern AI system design. Since 2024, I have shipped eight products across five domains, two of which are live and in active use.
+I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experience across EdTech, FinTech, HealthTech, regulatory technology, and AI governance, and I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education for school-age children. My background spans enterprise QA, national-scale examinations management at the British Council, and early-stage AI product development at Aperintel, which means I bridge the gap between rigorous engineering practice and modern AI system design rather than picking one and ignoring the other. Since 2024, I have shipped eight products across five domains, three of which are live and in active use.
 
 ---
 
@@ -20,15 +20,18 @@ I am a Full Stack AI Engineer and Senior Test Analyst, with 17 years of experien
 
 | Product | Domain | Status |
 |---|---|---|
-| Wingman | FinTech and Capital Markets | 🟢 Live |
-| Aperintel | AI Infrastructure and Intelligence Systems | 🟢 Live |
-| PaulaQI | Healthcare Quality and CQC | 🔵 In Development |
-| Aces | Community and Social Infrastructure | 🔵 In Development |
-| TekkieStack | EdTech and Computer Based Testing | 🟢 Live |
-| Avant | Software Delivery and DevOps Intelligence | 🔵 In Development |
-| Aoura | AI Governance and Personal AI | 🔵 In Development |
-| Orion | AI Infrastructure and OS Orchestration | 🧪 The Lab |
-| Titan OS | AI Infrastructure and OS | 💡 Vision |
+| Wingman | FinTech and Capital Markets | Live |
+| Aperintel | AI Infrastructure and Intelligence Systems | Live |
+| TekkieStack | EdTech and Computer Based Testing | Live |
+| Collstack Lectern | EdTech for NBTE-accredited polytechnics | Feature-complete, deploy pending |
+| Aperintel AI Gateway | AI Infrastructure (Phase 2 multi-model router) | Phase 1 + 2 foundation built |
+| Metacarpal | Personal venture operating system | Phase 1 complete |
+| PaulaQI | Healthcare Quality and CQC | In Development |
+| Aces | Community and Social Infrastructure | Pre-launch hardening |
+| Avant | Software Delivery and DevOps Intelligence | In Development |
+| Aoura Web | AI Governance and Personal AI workspace | Built, pre-deploy |
+| Orion | AI Infrastructure and OS Orchestration | The Lab |
+| Titan OS | AI-native OS on spare hardware | Vision |
 
 ---
 
@@ -64,6 +67,7 @@ I am a Full Stack AI Engineer and Senior Test Analyst, with 17 years of experien
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Infrastructure**
 
@@ -83,29 +87,29 @@ I am a Full Stack AI Engineer and Senior Test Analyst, with 17 years of experien
 
 **FinTech and Capital Markets**
 
-My expertise in FinTech spans financial intelligence tooling and market analysis infrastructure. Wingman delivers multi-timeframe market scanning across 54 instruments using the Claude API, whilst Aperintel's financial systems arm addresses the structural gap between fragmented financial data and decision-ready intelligence.
+My FinTech work covers financial intelligence tooling and market analysis infrastructure, with Wingman delivering multi-timeframe market scanning across 54 instruments using a multi-provider intelligence engine, and the Aperintel intelligence suite addressing the structural gap between fragmented financial data and decision-ready analytical briefs.
 
 **UK Regulatory and Pensions**
 
-I work as a Senior Test Analyst at The Pensions Regulator, where I apply QA rigour to financial and pensions regulatory software using Azure DevOps, Playwright, BDD, and Dynamics 365. This domain context directly informs how I think about compliance, auditability, and systemic risk in the products I build.
+I work as a Senior Test Analyst at The Pensions Regulator, where I apply QA rigour to financial and pensions regulatory software using Azure DevOps, Playwright, BDD, and Dynamics 365. This domain context directly informs how I think about compliance, auditability, and systemic risk in the products I build, which is why every Aperintel product carries an Ed25519-signed audit chain on every state-changing action rather than treating governance as a feature you add later.
 
 **EdTech and Computer Based Testing**
 
-I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and taught college computing from 2009 to 2016. TekkieStack applies this lived experience to structured, accessible coding education for school-age learners from Year 3 upwards.
+I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and I taught college computing from 2009 to 2016, which gives me a working knowledge of what assessment infrastructure actually has to do once it leaves the demo. TekkieStack applies that experience to structured, accessible coding education for school-age learners from Year 3 upwards, and Collstack Lectern applies it to lecturer-facing delivery at NBTE-accredited polytechnics.
 
 **Healthcare Quality and CQC**
 
-PaulaQI is a healthcare quality intelligence platform built to help CQC compliance consultants assess care providers against the Single Assessment Framework. It uses RAG, Pinecone vector search, and the Claude API to evaluate evidence across all 34 Quality Statements and generate predictive inspection ratings.
+PaulaQI is a healthcare quality intelligence platform built to help CQC compliance consultants assess care providers against the Single Assessment Framework, using RAG, Pinecone vector search, and the Claude API to evaluate evidence across all 34 Quality Statements and generate predictive inspection ratings.
 
 **AI Governance and Responsible AI**
 
-Aoura sits at the intersection of personal AI and privacy-first architecture, operating on a zero-knowledge design. My broader work on intelligence infrastructure, including Aperintel's platform strategy and Orion's intent-driven orchestration model, reflects a consistent focus on AI systems that are structured, auditable, and human-centred.
+Aoura Web brings personal-AI work into a privacy-first design with a zero-knowledge architecture, and the broader Aperintel platform strategy (Aperintel AI Gateway, Aperintel Govhub, Metacarpal) reflects a consistent focus on AI systems that are structured, auditable, and human-centred rather than treating governance as marketing language.
 
 ---
 
 ## Currently Building
 
-PaulaQI and Aces are the two most active projects at present, both in active development with production deployments in progress. I am also expanding the Aperintel ecosystem, consolidating intelligence infrastructure across FinTech, EdTech, and Healthcare Quality domains.
+PaulaQI and Aces are the two most active product builds, both with production deployments in progress. The Aperintel platform layer is the broader theme, consolidating intelligence infrastructure across FinTech, EdTech, and Healthcare Quality so that each product writes to the same audit chain, runs through the same guardrail evaluator, and shares the same multi-model routing logic rather than reimplementing governance per product.
 
 ---
 
@@ -123,22 +127,4 @@ PaulaQI and Aces are the two most active projects at present, both in active dev
 
 ## Get in Touch
 
-I am open to collaborations on AI product development, QA engineering, and domain-specific intelligence systems. You can find me at [osiabu.dev](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
-=======
-## Hi there 👋
-
-<!--
-**abuj07/abuj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 4c9037661519d7a4bc1e8730b1f757bc71259ee3
+I am open to collaborations on AI product development, QA engineering, AI governance consultancy, and domain-specific intelligence systems. You can find me at [osiabu.vercel.app](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
