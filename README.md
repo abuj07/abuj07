@@ -20,18 +20,31 @@ I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experienc
 
 | Product | Domain | Status |
 |---|---|---|
-| Wingman | FinTech and Capital Markets | Live |
-| Aperintel | AI Infrastructure and Intelligence Systems | Live |
-| TekkieStack | EdTech and Computer Based Testing | Live |
-| Collstack Lectern | EdTech for NBTE-accredited polytechnics | Feature-complete, deploy pending |
-| Aperintel AI Gateway | AI Infrastructure (Phase 2 multi-model router) | Phase 1 + 2 foundation built |
-| Metacarpal | Personal venture operating system | Phase 1 complete |
+| Nexuscone | Open-source tamper-evident audit ledger (Python, Apache 2.0) | Live at github.com/osiabu/nexuscone |
+| Aperintel AI Gateway | AI Infrastructure (multi-model router, Ed25519 audit chain, eight pre-egress guardrails) | Platform endpoint shipped, Phase 1 consumer pipeline in progress |
+| Aperintel | AI Infrastructure and Intelligence Systems | Live at aperintel.com |
+| TekkieStack | EdTech and Computer Based Testing for school-age learners | Live at tekkiestack.com |
+| Marktrader | FinTech and Capital Markets (rebranded from Wingman May 2026) | Live at marktrader.vercel.app |
+| Metacarpal | Personal venture operating system, twenty-one specialist agents, signed LEDGER | Phase 1 complete (150 tests passing) |
+| Collstack Lectern | EdTech for academic institutions (institution-agnostic; FCF-Jos as pilot) | Feature-complete, deploy pending |
+| Nexus | AI Governance Platform (commercial wrapper around Nexuscone for UK regulated industries) | Blueprint pinned, marketing surface in build |
 | PaulaQI | Healthcare Quality and CQC | In Development |
 | Aces | Community and Social Infrastructure | Pre-launch hardening |
-| Avant | Software Delivery and DevOps Intelligence | In Development |
+| Avant ApexFlow | Software Correctness Platform (audit-grade software delivery) | Blueprint v1, scoped MVP in design |
 | Aoura Web | AI Governance and Personal AI workspace | Built, pre-deploy |
-| Orion | AI Infrastructure and OS Orchestration | The Lab |
-| Titan OS | AI-native OS on spare hardware | Vision |
+| NovaBash | BYOK developer infrastructure platform | Phase A complete, near-deploy |
+
+---
+
+## Public Code You Can Inspect
+
+The work most relevant to AI infrastructure, governance, and audit lives in public repos under this account. The cryptographic correctness claims in every application or pitch are verifiable in three commands against any of these.
+
+- **[nexuscone](https://github.com/osiabu/nexuscone)**: Tamper-evident append-only audit ledger Python package, Apache 2.0. SHA-256 hash chain plus optional Ed25519 signing, async SQLite-backed. 24 pytest cases passing, ruff clean, mypy strict clean, CI on Python 3.10 through 3.13. The open-core primitive underneath Nexus and the cryptographic core extracted from Metacarpal plus the Aperintel AI Gateway.
+- **[aperintel-ai-gateway](https://github.com/osiabu/aperintel-ai-gateway)**: Multi-model AI router in TypeScript on Next.js 16 with an Ed25519-backed audit chain, a seven-step compound-intelligence pipeline, and an eight-rule pre-egress guardrail evaluator. Platform endpoint at `/v1/generate` shipped.
+- **[Metacarpal](https://github.com/osiabu/Metacarpal)**: Personal autonomous-agent operating system in Python with twenty-one specialist agents (JUDGE, ORION, DARWIN, WARDEN, RAPTOR, plus more), a signed LEDGER chain, and 150 passing tests.
+- **[marktrader](https://github.com/osiabu/marktrader)**: Browser-native financial markets trading intelligence tool with the Lumen dual-engine architecture.
+- **[aperintel](https://github.com/osiabu/aperintel)**, **[tekkiestack](https://github.com/osiabu/tekkiestack)**, **[paulaqi](https://github.com/osiabu/paulaqi)**: source code for the live consumer surfaces.
 
 ---
 
@@ -87,7 +100,7 @@ I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experienc
 
 **FinTech and Capital Markets**
 
-My FinTech work covers financial intelligence tooling and market analysis infrastructure, with Wingman delivering multi-timeframe market scanning across 54 instruments using a multi-provider intelligence engine, and the Aperintel intelligence suite addressing the structural gap between fragmented financial data and decision-ready analytical briefs.
+My FinTech work covers financial intelligence tooling and market analysis infrastructure, with Marktrader (rebranded from the original Wingman in May 2026) delivering multi-timeframe market scanning across 54 instruments using a multi-provider intelligence engine, and the Aperintel intelligence suite addressing the structural gap between fragmented financial data and decision-ready analytical briefs.
 
 **UK Regulatory and Pensions**
 
@@ -109,7 +122,7 @@ Aoura Web brings personal-AI work into a privacy-first design with a zero-knowle
 
 ## Currently Building
 
-PaulaQI and Aces are the two most active product builds, both with production deployments in progress. The Aperintel platform layer is the broader theme, consolidating intelligence infrastructure across FinTech, EdTech, and Healthcare Quality so that each product writes to the same audit chain, runs through the same guardrail evaluator, and shares the same multi-model routing logic rather than reimplementing governance per product.
+Nexus is the active commercial focus, the AI governance platform built as the commercial wrapper around the open-source Nexuscone primitive and designed for UK regulated industries (financial services, healthcare, pensions, public administration). The Aperintel AI Gateway Phase 1 consumer pipeline is the parallel build that will take the platform endpoint already shipped at `/v1/generate` and pair it with a consumer chat product at aperintel.ai. PaulaQI and Aces remain the two next active product builds, both with production deployments in progress. The broader theme across all of this is that every Aperintel product writes to the same audit chain, runs through the same guardrail evaluator, and shares the same multi-model routing logic rather than reimplementing governance per product.
 
 ---
 
@@ -127,4 +140,4 @@ PaulaQI and Aces are the two most active product builds, both with production de
 
 ## Get in Touch
 
-I am open to collaborations on AI product development, QA engineering, AI governance consultancy, and domain-specific intelligence systems. You can find me at [osiabu.vercel.app](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
+I am open to collaborations on AI product development, AI governance consultancy, audit-grade infrastructure work, Forward Deployed Engineering, and domain-specific intelligence systems in regulated industries. You can find me at [osiabu.vercel.app](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
