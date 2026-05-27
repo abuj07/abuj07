@@ -34,11 +34,14 @@ I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experienc
 
 ## Public Code You Can Inspect
 
-The work most relevant to AI infrastructure, governance, and audit lives in public repos. The cryptographic correctness claims in every application or pitch are verifiable in three commands against any of these.
+These are the public repos under this account, or under the Aperintel org I founded. The cryptographic correctness claims in every application or pitch are verifiable in three commands against the audit-ledger code; the supporting repos cover the broader AI-governance toolkit.
 
-- **[nexuscone](https://github.com/aperintel/nexuscone)**: Tamper-evident append-only audit ledger Python package, Apache 2.0. SHA-256 hash chain plus optional Ed25519 signing, async SQLite-backed. The open-core primitive underneath Hyperaxis and the cryptographic core extracted from Metacarpal.
-- **[marktrader](https://github.com/osiabu/marktrader)**: Browser-native financial markets trading intelligence tool with the Lumen dual-engine architecture.
-- **[aperintel](https://github.com/osiabu/aperintel)** and **[tekkiestack](https://github.com/osiabu/tekkiestack)**: source code for the live consumer surfaces.
+- **[nexuscone](https://github.com/aperintel/nexuscone)**: Tamper-evident append-only audit ledger Python package, Apache 2.0 on PyPI. SHA-256 hash chain plus optional Ed25519 signing, async SQLite-backed. The open-core primitive underneath Hyperaxis and the cryptographic core extracted from Metacarpal.
+- **[marktrader](https://github.com/osiabu/marktrader)**: Browser-native financial markets trading intelligence tool with the Lumen dual-engine architecture and a server-side multi-provider fallback chain.
+- **[novabash](https://github.com/aperintel/novabash)**: BYOK developer infrastructure platform. One workspace, one encrypted vault, one `.env`, every third-party service your stack runs on. KMS-owned data keys, native rotation flow, tamper-evident audit log. Apache 2.0.
+- **[regulated-ai-checklist](https://github.com/osiabu/regulated-ai-checklist)**: Practitioner pre-deployment checklist for shipping AI in regulated environments. Governance, audit, security, data protection, monitoring, incident response, supply chain. CC BY 4.0.
+- **[awesome-ai-governance](https://github.com/osiabu/awesome-ai-governance)**: Curated list of resources for building, shipping, and auditing AI in regulated environments. Regulations, standards, OSS primitives, governance platforms, security tools. CC0.
+- **[Mini-Assistant-Swarm](https://github.com/osiabu/Mini-Assistant-Swarm)**: Fork-friendly personal subagent toolkit. VERIFIER-gated outputs, never sends on the operator's behalf, always writes to disk. Apache 2.0.
 
 ---
 
