@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experience across EdTech, FinTech, HealthTech, regulatory technology, and AI governance, and I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education for school-age children. My background spans enterprise QA, national-scale examinations management at the British Council, and early-stage AI product development at Aperintel, which means I bridge the gap between rigorous engineering practice and modern AI system design rather than picking one and ignoring the other. Since 2024, I have shipped products across five domains, with five live in production and a pipeline of in-development platforms at various stages.
+I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experience across EdTech, FinTech, HealthTech, regulatory technology, and AI governance, and I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education for school-age children. My background spans enterprise QA, national-scale examinations management at the British Council, and early-stage AI product development at Aperintel, which means I bridge the gap between rigorous engineering practice and modern AI system design rather than picking one and ignoring the other. Since 2024, I have shipped products across various sectors: technology, healthcare, education, finance, community, and ops.
 
 ---
 
@@ -20,32 +20,25 @@ I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experienc
 
 | Product | Domain | Status |
 |---|---|---|
-| Nexuscone | Open-source tamper-evident audit ledger (Python, Apache 2.0) | Live at github.com/nexuscone/nexuscone |
-| Aperintel AI Gateway | AI Infrastructure (multi-model router, Ed25519 audit chain, eight pre-egress guardrails) | Platform endpoint shipped, Phase 1 consumer pipeline in progress |
+| Nexuscone | Open-source tamper-evident audit ledger (Python, Apache 2.0) | Live at github.com/aperintel/nexuscone |
 | Aperintel | AI Infrastructure and Intelligence Systems | Live at aperintel.com |
 | TekkieStack | EdTech and Computer Based Testing for school-age learners | Live at tekkiestack.com |
 | Marktrader | FinTech and Capital Markets (rebranded from Wingman May 2026) | Live at marktrader.vercel.app |
-| Aperintel AI Academy | Cohort-based AI engineering training for professionals | Live at academy.aperintel.com |
-| Metacarpal | Personal venture operating system, twenty-one specialist agents, signed LEDGER | Phase 1 complete (150 tests passing) |
-| Collstack Lectern | EdTech for academic institutions (institution-agnostic; FCF-Jos as pilot) | Feature-complete, deploy pending |
-| Hyperaxis | AI Governance Platform (commercial wrapper around Nexuscone for UK regulated industries; hyperaxis.aperintel.com) | Build in progress |
-| PaulaQI | Healthcare Quality and CQC | In Development |
-| Aces | Community and Social Infrastructure | Pre-launch hardening |
-| Avant ApexFlow | Software Correctness Platform (audit-grade software delivery) | Blueprint v1, scoped MVP in design |
-| Aoura Web | AI Governance and Personal AI workspace | Built, pre-deploy |
-| NovaBash | BYOK developer infrastructure platform | Phase A complete, near-deploy |
+| Metacarpal | Personal venture operating system with twenty-one specialist agents and a signed LEDGER | In active use |
+| Hyperaxis | AI Governance Platform (commercial wrapper around Nexuscone for UK regulated industries; hyperaxis.aperintel.com) | In development |
+| Aces | Community and Social Infrastructure | In development |
+| Avant ApexFlow | Software Correctness Platform (audit-grade software delivery) | In development |
+| NovaBash | BYOK developer infrastructure platform | In development |
 
 ---
 
 ## Public Code You Can Inspect
 
-The work most relevant to AI infrastructure, governance, and audit lives in public repos under this account. The cryptographic correctness claims in every application or pitch are verifiable in three commands against any of these.
+The work most relevant to AI infrastructure, governance, and audit lives in public repos. The cryptographic correctness claims in every application or pitch are verifiable in three commands against any of these.
 
-- **[nexuscone](https://github.com/nexuscone/nexuscone)**: Tamper-evident append-only audit ledger Python package, Apache 2.0. SHA-256 hash chain plus optional Ed25519 signing, async SQLite-backed. 24 pytest cases passing, ruff clean, mypy strict clean, CI on Python 3.10 through 3.13. The open-core primitive underneath Hyperaxis and the cryptographic core extracted from Metacarpal plus the Aperintel AI Gateway.
-- **[aperintel-ai-gateway](https://github.com/osiabu/aperintel-ai-gateway)**: Multi-model AI router in TypeScript on Next.js 16 with an Ed25519-backed audit chain, a seven-step compound-intelligence pipeline, and an eight-rule pre-egress guardrail evaluator. Platform endpoint at `/v1/generate` shipped.
-- **[Metacarpal](https://github.com/osiabu/Metacarpal)**: Personal autonomous-agent operating system in Python with twenty-one specialist agents (JUDGE, ORION, DARWIN, WARDEN, RAPTOR, plus more), a signed LEDGER chain, and 150 passing tests.
+- **[nexuscone](https://github.com/aperintel/nexuscone)**: Tamper-evident append-only audit ledger Python package, Apache 2.0. SHA-256 hash chain plus optional Ed25519 signing, async SQLite-backed. The open-core primitive underneath Hyperaxis and the cryptographic core extracted from Metacarpal.
 - **[marktrader](https://github.com/osiabu/marktrader)**: Browser-native financial markets trading intelligence tool with the Lumen dual-engine architecture.
-- **[aperintel](https://github.com/osiabu/aperintel)**, **[tekkiestack](https://github.com/osiabu/tekkiestack)**, **[paulaqi](https://github.com/osiabu/paulaqi)**: source code for the live consumer surfaces.
+- **[aperintel](https://github.com/osiabu/aperintel)** and **[tekkiestack](https://github.com/osiabu/tekkiestack)**: source code for the live consumer surfaces.
 
 ---
 
@@ -109,21 +102,17 @@ I work as a Senior Test Analyst at The Pensions Regulator, where I apply QA rigo
 
 **EdTech and Computer Based Testing**
 
-I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and I taught college computing from 2009 to 2016, which gives me a working knowledge of what assessment infrastructure actually has to do once it leaves the demo. TekkieStack applies that experience to structured, accessible coding education for school-age learners from Year 3 upwards, the Aperintel AI Academy applies it to professional AI engineering training, and Collstack Lectern applies it to lecturer-facing delivery at any academic institution that runs lessons, continuous assessment, examinations, and transcripts at scale.
-
-**Healthcare Quality and CQC**
-
-PaulaQI is a healthcare quality intelligence platform built to help CQC compliance consultants assess care providers against the Single Assessment Framework, using RAG, Pinecone vector search, and the Claude API to evaluate evidence across all 34 Quality Statements and generate predictive inspection ratings.
+I managed national-scale Computer Based Testing and high-stakes examinations at the British Council from 2016 to 2019, and I taught college computing from 2009 to 2016, which gives me a working knowledge of what assessment infrastructure actually has to do once it leaves the demo. TekkieStack applies that experience to structured, accessible coding education for school-age learners from Year 3 upwards.
 
 **AI Governance and Responsible AI**
 
-Aoura Web brings personal-AI work into a privacy-first design with a zero-knowledge architecture, and the broader Aperintel platform strategy (Aperintel AI Gateway, Aperintel Govhub, Metacarpal) reflects a consistent focus on AI systems that are structured, auditable, and human-centred rather than treating governance as marketing language.
+The broader Aperintel platform strategy, with Hyperaxis as the commercial wrapper around the Nexuscone open-source primitive and Metacarpal as the multi-agent personal operating system, reflects a consistent focus on AI systems that are structured, auditable, and human-centred rather than treating governance as marketing language.
 
 ---
 
 ## Currently Building
 
-Hyperaxis is the active commercial platform build, the AI governance product built as the commercial wrapper around the open-source Nexuscone primitive, designed for UK regulated industries (financial services, healthcare, pensions, public administration) and deploying at hyperaxis.aperintel.com. The Aperintel AI Academy is the revenue-generating training arm, now live at academy.aperintel.com with cohort courses from taster sessions through to full Production Engineer tracks. The Aperintel AI Gateway Phase 1 consumer pipeline is the parallel infrastructure build, taking the platform endpoint already shipped at `/v1/generate` and wiring it into a consumer chat product. The broader theme across all of this is that every Aperintel product writes to the same audit chain, runs through the same guardrail evaluator, and shares the same multi-model routing logic rather than reimplementing governance per product.
+Hyperaxis is the active commercial platform build, the AI governance product built as the commercial wrapper around the open-source Nexuscone primitive, designed for UK regulated industries (financial services, healthcare, pensions, public administration) and deploying at hyperaxis.aperintel.com. The broader theme across every Aperintel product is that they write to the same audit chain, run through the same guardrail evaluator, and share the same multi-model routing logic rather than reimplementing governance per product.
 
 ---
 
