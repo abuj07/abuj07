@@ -4,7 +4,7 @@
 
 **Full Stack AI Engineer and AI Builder, London**
 
-[Website](https://www.osiabu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/osiabu) · [GitHub](https://www.github.com/osiabu)
+[Website](https://osiabu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/osiabu) · [GitHub](https://www.github.com/osiabu)
 
 </div>
 
@@ -133,4 +133,4 @@ Hyperaxis is the active commercial platform build, the AI governance product bui
 
 ## Get in Touch
 
-I am open to collaborations on AI product development, AI governance consultancy, audit-grade infrastructure work, Forward Deployed Engineering, and domain-specific intelligence systems in regulated industries. You can find me at [osiabu.vercel.app](https://www.osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
+I am open to collaborations on AI product development, AI governance consultancy, audit-grade infrastructure work, Forward Deployed Engineering, and domain-specific intelligence systems in regulated industries. You can find me at [osiabu.vercel.app](https://osiabu.vercel.app) or connect via [LinkedIn](https://www.linkedin.com/in/osiabu).
