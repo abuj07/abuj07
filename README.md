@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Full Stack AI Engineer and Senior Test Analyst with 17 years of experience across EdTech, FinTech, HealthTech, regulatory technology, and AI governance, and I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education for school-age children. My background spans enterprise QA, national-scale examinations management at the British Council, and early-stage AI product development at Aperintel, the technology and AI startup I founded, which means I bridge the gap between rigorous engineering practice and modern AI system design rather than picking one and ignoring the other. Since 2024, I have shipped products across various sectors: technology, healthcare, education, finance, community, and ops.
+I am an AI governance specialist, a Full Stack AI Engineer and Senior Test Analyst with 17 years of experience across EdTech, FinTech, HealthTech, regulatory technology, and AI governance, and I build AI products that apply structured intelligence to real-world operational problems, from healthcare compliance to financial decision support to coding education for school-age children. My background spans enterprise QA, national-scale examinations management at the British Council, and early-stage AI product development at Aperintel, the technology and AI startup I founded, which means I bridge the gap between rigorous engineering practice and modern AI system design rather than picking one and ignoring the other. Since 2024, I have shipped products across various sectors: technology, healthcare, education, finance, community, and ops.
 
 ---
 
